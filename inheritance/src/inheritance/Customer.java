@@ -1,5 +1,6 @@
 package inheritance;
 
-public class Customer {
+public class Customer extends Person {
+  String email;
 
 }
